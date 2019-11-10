@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <Reorderer.NotReady>必须在游戏开始/载入完成后，标签的重排序才会被载入。</Reorderer.NotReady>
   <Reorderer.MainButtons>主标签</Reorderer.MainButtons>
   <Reorderer.DesignationCategories>建筑规划类别</Reorderer.DesignationCategories>
   <Reorderer.Reset>重置为默认</Reorderer.Reset>
